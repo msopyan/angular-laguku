@@ -1,0 +1,25 @@
+/* Add application styles & imports to this file! */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.br-12 {
+  border-radius: 12px 4px;
+}
+
+.btn-pink {
+  background-color: #E12786;
+  color: white;
+}
+
+.btn-pink:hover {
+  background-color: #c52176;
+  color: white;
+}
